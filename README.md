@@ -41,7 +41,7 @@ To start a local MongoDB server, run:mongod --dbpath /path/to/data
 
 
 Clone the Repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/kheus/Assignement-MongoDB.git
 cd your-repo-name
 
 
